@@ -7,5 +7,5 @@ setup(
     author='Author Name',
     author_email='haqury@gmail.com',
     packages=['CaseManager'],  # same as name
-    install_requires=['pyperclip', 'PyQt5'],  # external packages as dependencies
+    install_requires=[],  # external packages as dependencies
 )

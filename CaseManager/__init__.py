@@ -1,7 +1,3 @@
-import pyperclip as pc
-
-from PyQt5.Qt import *
-import numpy as np
 
 SNAKE_CASE = ['snake', 'make', 'снейк', 'smokies']
 CAMEL_CASE = ['camel', 'como', 'кому', 'хаббл', 'kamo']
